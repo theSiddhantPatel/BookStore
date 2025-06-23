@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "/images/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 20,
+        "category": "free",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sports Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "sports",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Music Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Food Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 200,
+        "category": "Food",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "images/book.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "lorem ipsum dolar sit amet",
+        "price": 0,
+        "category": "free",
+        "image": "images/book.jpg"
+    }
+]
